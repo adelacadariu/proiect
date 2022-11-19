@@ -1289,3 +1289,11 @@ thead {
         margin-bottom: 10px
     }
 }
+
+@media (max-width: 992px) {
+    .tm-section-col .tm-media-body{
+        position: static;
+        margin-left: auto;
+        margin-right: 0;
+    }
+}
